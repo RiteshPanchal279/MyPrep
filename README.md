@@ -31,5 +31,5 @@ An **AI-powered mock interview web app** built with **Next.js** and styled using
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/yourusername/ai-mock-interview.git
-   cd ai-mock-interview
+   git clone https://github.com/RiteshPanchal279/prepwise
+   cd prepwise
