@@ -19,7 +19,7 @@ An **AI-powered mock interview web app** built with **Next.js** and styled using
 ## 🛠️ Tech Stack
 
 - **Framework:** [Next.js](https://nextjs.org/)
-- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/), [shadcn/ui](https://ui.shadcn.dev/)
 - **AI Model:** [Gemini](https://deepmind.google/discover/blogs/gemini/)
 - **Voice Engine:** [Vapi](https://vapi.ai)
 - **Transcription:** Deepgram via Vapi
@@ -31,5 +31,5 @@ An **AI-powered mock interview web app** built with **Next.js** and styled using
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/RiteshPanchal279/prepwise
-   cd prepwise
+   git clone https://github.com/RiteshPanchal279/MyPrep
+   cd MyPrep
